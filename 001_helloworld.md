@@ -17,7 +17,7 @@
 さて、このターミナルにコマンドを打ち込んで、PythonをWindowsにインストールします。
 
 ```
-winget install Python
+winget install python
 ```
 
 ## VSCodeとは
